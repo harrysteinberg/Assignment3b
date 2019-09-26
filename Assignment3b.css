@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+SETLIST{
+	background-color: #FF2B2E;
+	width: 100%;
+}
+
+SONG{
+	text-align: center;
+	display: block;
+	margin-bottom: 20pt;
+	margin-left: 0;
+}
+
+TITLE{
+	display: block;
+	color: #FFFFFF;
+	font-size: 30pt;
+}
+
+ARTIST{
+	display: block;
+	color: #FFFFFF;
+	font-size: 20pt;
+}
+
+GENRE, YEAR {
+	display: block;
+	color: #C5C5C5;
+	font-size: 20pt;
+}
